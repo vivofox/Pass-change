@@ -1,0 +1,11 @@
+c:\users\irozen\documents\visual studio 2013\Projects\Connection\bin\Connection.dll.config
+c:\users\irozen\documents\visual studio 2013\Projects\Connection\bin\Connection.dll
+c:\users\irozen\documents\visual studio 2013\Projects\Connection\bin\Connection.pdb
+c:\users\irozen\documents\visual studio 2013\Projects\Connection\obj\Debug\Connection.dll
+c:\users\irozen\documents\visual studio 2013\Projects\Connection\obj\Debug\Connection.pdb
+C:\Users\klik\Desktop\משימה\Connection\bin\Connection.dll.config
+C:\Users\klik\Desktop\משימה\Connection\bin\Connection.dll
+C:\Users\klik\Desktop\משימה\Connection\bin\Connection.pdb
+C:\Users\klik\Desktop\משימה\Connection\obj\Debug\Connection.dll
+C:\Users\klik\Desktop\משימה\Connection\obj\Debug\Connection.pdb
+C:\Users\klik\Desktop\משימה\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
